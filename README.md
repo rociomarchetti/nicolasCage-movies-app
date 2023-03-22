@@ -1,27 +1,27 @@
-# HeroesApp
+# Nicolas Cage's latest movies app :dancing_men:
+Deploy link: https://nicolas-movies-app.netlify.app/list
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
+https://user-images.githubusercontent.com/98389214/226917448-5de6ac96-ba5e-42f4-8acd-ccc1d06a66e6.mp4
 
-## Development server
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b92cbf75-63e9-4075-8fba-8b8d948db270/deploy-status)](https://app.netlify.com/sites/costs-calculator/deploys)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+App to discover the titles of Nicolas Cage's latest movies through the information stored on IMDB
 
-## Code scaffolding
+> Brief description of the project: 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+From this app you can access a list of the last 20 movies in which Nicolas Cage has participated thanks to the information provided by the IMDB api. You can access to the image bank of each movie by clicking on each one. It also has a section where you can search for the poster of any of his movies (of the more than 400 in which he has participated so far!).
 
-## Build
+## :wrench: **Tech used in this project**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![material.angular.io](https://img.shields.io/badge/material.angular.io-brown?style=flat-square)
 
-## Running unit tests
+> :woman_teacher: **What I learned in this project**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Angular Material Components, including the search tool of autocomplete + Angular Flex Layout
 
-## Running end-to-end tests
+### API Used: IMDB 
+![developer.imdb.com](https://img.shields.io/badge/developer.imdb.com-yellow?style=flat-square)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
